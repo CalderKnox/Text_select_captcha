@@ -2,7 +2,7 @@ numpy==1.22.0
 torch==1.5.1
 torchvision==0.6.1
 matplotlib==3.3.0
-pillow==10.3.0
+pillow==13.0.0
 selenium==3.141.0
 requests==2.31.0
 onnxruntime
